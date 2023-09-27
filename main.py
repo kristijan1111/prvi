@@ -7,3 +7,5 @@ print(calculate.x)
 
 def rep(x):
   return x
+
+print('bue bye')
